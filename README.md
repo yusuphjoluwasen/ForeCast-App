@@ -26,6 +26,12 @@ Forecast App is a Useful Weather Application with nice user interface and experi
 ## Credits
 * https://shape.dk/
 * https://openweathermap.org/
-![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/25069943/132486546-fe9803a3-67ba-4aa1-a3b8-cf39a4bfd597.png) | ![Webp net-resizeimage](https://user-images.githubusercontent.com/25069943/132486140-4c359884-379a-4f78-a4e7-157b4f359492.png)
+
+
+
+![Webp net-resizeimage (2)](https://user-images.githubusercontent.com/25069943/132486983-86a68b2b-5a5a-4669-a21d-84c1e4513dd5.png)
+![Webp net-resizeimage (3)](https://user-images.githubusercontent.com/25069943/132487199-4244896b-14b7-41eb-b278-182838b77482.png)
+![Webp net-resizeimage (4)](https://user-images.githubusercontent.com/25069943/132487352-0f36a4ca-0041-45e1-b0f2-bd44fb75ae00.png)
+![Webp net-resizeimage (5)](https://user-images.githubusercontent.com/25069943/132487482-91998ffb-a3fe-467e-becf-32c36392f2f0.png)
 
 
