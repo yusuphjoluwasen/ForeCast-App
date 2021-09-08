@@ -24,6 +24,6 @@ AVFoundation
 CABasicAnimation
 
 # Credits
-https://shape.dk/
-https://openweathermap.org/
+* https://shape.dk/
+* https://openweathermap.org/
 
