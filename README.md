@@ -1,7 +1,7 @@
 # ForeCast-App
 Forecast App is a Useful Weather Application with nice user interface and experience created to basically get users interested in a weather app.
 
-# Features 
+## Features 
 * Instant Information Availability
 * Nice Interactive Animations and Sound
 * Easy Flow of Information
@@ -9,7 +9,7 @@ Forecast App is a Useful Weather Application with nice user interface and experi
 * Save User's Weather History
 * Provides information on current atmospheric pressure, weather conditions, pressure, humidity and location of different cities around the world.
 
-# iOS Tech Stack
+## iOS Tech Stack
 * Architecture: VIPER (Clean Architecture)
 * Local Notifications
 * Swift 5
@@ -23,7 +23,7 @@ Forecast App is a Useful Weather Application with nice user interface and experi
 * AVFoundation
 * CABasicAnimation
 
-# Credits
+## Credits
 * https://shape.dk/
 * https://openweathermap.org/
 
