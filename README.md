@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-README
-=======
 # ForeCast-App
 Forecast App is a Useful Weather Application with nice user interface and experience created to basically get users interested in a weather app.
 
@@ -36,8 +33,3 @@ Forecast App is a Useful Weather Application with nice user interface and experi
 ![Webp net-resizeimage (4)](https://user-images.githubusercontent.com/25069943/132487352-0f36a4ca-0041-45e1-b0f2-bd44fb75ae00.png)
 ![Webp net-resizeimage (3)](https://user-images.githubusercontent.com/25069943/132487199-4244896b-14b7-41eb-b278-182838b77482.png)
 ![Webp net-resizeimage (5)](https://user-images.githubusercontent.com/25069943/132490035-98d071c1-3def-45db-8ee6-0e238fe6a5da.png)
-
-
-
-
->>>>>>> 9715871b3f8b803649a594d64da2a6fdb5d8920e
